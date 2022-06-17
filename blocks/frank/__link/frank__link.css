@@ -1,0 +1,15 @@
+.frank__link {
+  position: absolute;
+  font-size: 36px;
+  line-height: 51px;
+  text-decoration: none;
+  right: 48px;
+  opacity: 1;
+  top: 50%;
+  color: var(--blue);
+  transition: opacity 1s linear;
+}
+
+.frank__link:hover {
+  opacity: 0.5;
+}

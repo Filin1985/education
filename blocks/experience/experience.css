@@ -1,0 +1,7 @@
+.experience {
+  background-color: var(--light-grey-background);
+  padding-top: 160px;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}

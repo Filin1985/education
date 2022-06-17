@@ -1,0 +1,14 @@
+.wyner__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  color: var(--blue);
+  opacity: 1;
+  align-self: baseline;
+  transition: opacity 1s linear;
+}
+
+.wyner__buy-link:hover {
+  opacity: 0.5;
+}
